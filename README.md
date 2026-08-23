@@ -5,7 +5,7 @@
 
 ### Project Overview
 
-This project was developed to analyze supply chain performance using the Onyx Data DataDNA Challenge dataset (November 2024) in Power BI. Through data cleaning, DAX measure development, and interactive dashboard design, the project provides a comprehensive view of supplier performance, logistics operations, and business performance at the SKU level.
+This project was developed to analyze supply chain performance. Through data cleaning, DAX measure development, and interactive dashboard design, the project provides a comprehensive view of supplier performance, logistics operations, and business performance at the SKU level.
 
 The report was built to help the supply chain management team identify potential issues, analyze product performance, and optimize shipping and inventory operations.
 

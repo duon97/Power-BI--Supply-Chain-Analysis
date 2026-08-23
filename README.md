@@ -70,10 +70,10 @@ The dataset consists of 100 rows and 26 columns, describing the full product lif
 
 The report consists of 4 interactive pages, connected through cross-chart filtering:
 
-- **Suppliers** – evaluates supplier performance by volume, cost, and quality
-- **Inventory & Logistics** – monitors stock levels, carriers, routes, and transportation modes
-- **SKU Performance** – analyzes cost and revenue at the SKU level
-- **Insights** – summarizes key findings in natural language
+- **Suppliers** - evaluates supplier performance by volume, cost, and quality
+- **Inventory & Logistics** - monitors stock levels, carriers, routes, and transportation modes
+- **SKU Performance** - analyzes cost and revenue at the SKU level
+- **Insights** - summarizes key findings in natural language
 
 
 ---
@@ -114,7 +114,7 @@ In terms of manufacturing lead time, Mumbai should generally be avoided; specifi
 
 ### 3. SKU Performance – High Revenue Does Not Always Mean High Margin
 
-**Skincare** generates the highest revenue (0.24M, 42% of total revenue) but has the lowest average unit price (€11.66), resulting in the thinnest per-unit profit margin among the three categories.
+**Skincare** generates the highest revenue (0.24M, 42% of total revenue) but has the lowest average unit price (11.66), resulting in the thinnest per-unit profit margin among the three categories.
 
 Customer demographic analysis reveals: **women rarely purchase Haircare** (only 2% share), while **men rarely purchase Cosmetics** (only 4% share). This provides a data-driven basis for developing targeted product and marketing strategies by customer segment and category.
 
@@ -124,7 +124,7 @@ Customer demographic analysis reveals: **women rarely purchase Haircare** (only 
 
 ### Conclusion
 
-The supply chain generated total revenue of 577,605, total cost of 52,925, and profit of 517,956. However, performance varies significantly across suppliers, regions, and carriers — particularly the trade-off between low cost and quality at the supplier level, and between speed and cost at the shipping level.
+The supply chain generated total revenue of 577,605, total cost of 52,925. However, performance varies significantly across suppliers, regions, and carriers - particularly the trade-off between low cost and quality at the supplier level, and between speed and cost at the shipping level.
 
 The Skincare category leads in revenue but carries the thinnest per-unit margin, indicating that sales volume growth does not necessarily translate into proportional profit growth. Meanwhile, certain regions (Chennai, Delhi) show defect rates above safe thresholds and require priority attention.
 

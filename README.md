@@ -90,7 +90,7 @@ The report consists of 4 interactive pages, connected through cross-chart filter
 
 ## VI. Key Insights
 
-### 1. Suppliers – Trade-off Between Volume, Cost, and Quality
+### 1. Suppliers - Trade-off Between Volume, Cost, and Quality
 
 **Supplier 1** leads in order volume (1,458 orders) and revenue (158K), but is not the cheapest supplier.
 
@@ -98,7 +98,7 @@ The report consists of 4 interactive pages, connected through cross-chart filter
 
 This suggests the business should consider a multi-sourcing strategy rather than relying on a single cost or volume criterion.
 
-### 2. Inventory & Logistics – Shipping Efficiency and Stock Risk
+### 2. Inventory & Logistics - Shipping Efficiency and Stock Risk
 
 **Carrier B** handles the largest shipping volume (45.31%) and offers the fastest delivery time (5.30 days).
 

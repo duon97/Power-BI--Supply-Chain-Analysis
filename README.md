@@ -94,7 +94,7 @@ The report consists of 4 interactive pages, connected through cross-chart filter
 
 **Supplier 1** leads in order volume (1,458 orders) and revenue (158K), but is not the cheapest supplier.
 
-**Supplier 2** has the lowest unit cost (€0.06) yet the highest defect rate (0.52%), clearly illustrating the trade-off between price and quality when selecting a supplier.
+**Supplier 2** has the lowest unit cost (0.06) yet the highest defect rate (0.52%), clearly illustrating the trade-off between price and quality when selecting a supplier.
 
 This suggests the business should consider a multi-sourcing strategy rather than relying on a single cost or volume criterion.
 

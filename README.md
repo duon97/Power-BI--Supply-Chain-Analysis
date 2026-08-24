@@ -26,7 +26,7 @@ The project was designed to answer the following key business questions:
 
 ## III. Data Description
 
-### Onyx Data DataDNA Supply Chain Dataset
+###  Supply Chain Dataset
 
 The dataset consists of 100 rows and 26 columns, describing the full product lifecycle from supplier to end customer.
 
@@ -82,7 +82,7 @@ The report consists of 4 interactive pages, connected through cross-chart filter
 
 ### Overview Dashboard
 
-<img width="1509" height="716" alt="image" src="https://github.com/user-attachments/assets/44f858d9-4660-491a-85e8-9f481502b35e" />
+<img width="1367" height="652" alt="image" src="https://github.com/user-attachments/assets/f1de2ca4-2b81-4363-8c65-d4ab190d28e3" />
 <img width="1362" height="715" alt="image" src="https://github.com/user-attachments/assets/b95c2a9e-af32-4484-95b1-851cecac74da" />
 <img width="1351" height="686" alt="image" src="https://github.com/user-attachments/assets/eb73d51f-63f9-4d20-a579-6036cb0ee024" />
 
